@@ -1,4 +1,4 @@
-# odin-landing-page
+# odin-css-landing-page
 
 This repository contains a css landing page project from The Odin Project open source web course. 
 
