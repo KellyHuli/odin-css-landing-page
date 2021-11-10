@@ -4,5 +4,5 @@ This repository contains a css landing page project from The Odin Project open s
 
 Things I've learned:
 - Developing after a mock up
-- HTML5 semantics like <footer>, <header>, <section> an <q>
+- HTML5 semantics like footer, header, section and q
 - 
